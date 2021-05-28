@@ -2,7 +2,7 @@
 ![issue-badge](https://img.shields.io/badge/tools-Visual%20studio-blueviolet) ![issue-badge](https://img.shields.io/badge/Language-C%23-green)
 
 ## 프로젝트 소개
-기상청 RSS를 파싱하여 C#으로 구현한 전국날씨지도
+- 기상청 RSS를 파싱하여 C#으로 구현한 전국날씨지도
 
 ### 기능
 
